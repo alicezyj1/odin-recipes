@@ -1,0 +1,14 @@
+h1 {
+    font-size: 48px;
+    font-weight: 900;
+    color: tomato;
+    background: white;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.recipe.profile-image {
+    height: auto;
+    width: 600px
+}
